@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Directory",
+        "name": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet/backend/app/Http/Controllers",
+        "parent_id": null,
+        "workspaceRoot": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet",
+        "workspacePath": "backend/app/Http/Controllers",
+        "id": "RGr0WxkpSzbmLf8t"
+    },
+    {
+        "type": "Directory",
+        "name": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet/backend/app/Models",
+        "parent_id": null,
+        "workspaceRoot": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet",
+        "workspacePath": "backend/app/Models",
+        "id": "hKQtBAsRZIxOd6H2"
+    },
+    {
+        "type": "Directory",
+        "name": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet/backend/routes",
+        "parent_id": null,
+        "workspaceRoot": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet",
+        "workspacePath": "backend/routes",
+        "id": "X9OThKP1xZrDbH25"
+    },
+    {
+        "type": "Directory",
+        "name": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet/docs/tests",
+        "parent_id": null,
+        "workspaceRoot": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet",
+        "workspacePath": "docs/tests",
+        "id": "Xr09ISlO7dNEAbec"
+    },
+    {
+        "type": "File",
+        "name": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet/backend/resources/views/welcome.blade.php",
+        "parent_id": null,
+        "workspaceRoot": "/var/www/html/S07/S07E01-S07-laravel-monorepo-ThibaudMallet",
+        "workspacePath": "backend/resources/views/welcome.blade.php",
+        "id": "MhtSpOAYjKfmQH4T"
+    }
+]
